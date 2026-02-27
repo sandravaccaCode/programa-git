@@ -3,3 +3,4 @@ cambiar los archivos
 llevar estos cambios a local
 cambiados los formatos
 cambiamos mapas
+creamos esquemas
